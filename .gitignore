@@ -1,0 +1,7 @@
+.idea/
+_pycache_/
+data/
+exiftool/
+Ressources/
+Styles/
+venv/
